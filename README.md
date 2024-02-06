@@ -19,7 +19,7 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use, 
 
 ## Author
 
-This clone was created by Nupur Kale. You can reach out to me at nupur78042@gmail.com for any questions or suggestions.
+This clone was created by Nupur Kale.
 
 ---
 
